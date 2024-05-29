@@ -50,13 +50,13 @@
             <version>${assertj.version}</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
+<!--         <dependency>
             <artifactId>com.borland.silk.keyworddriven</artifactId>
             <groupId>com.borland.silk.keyworddriven.annotations</groupId>
             <version>1.0</version>
             <scope>system</scope>
             <systemPath>${project.basedir}/libs/com.borland.silk.keyworddriven.jar</systemPath>
-        </dependency>
+        </dependency> -->
     </dependencies>
 
 </project>
